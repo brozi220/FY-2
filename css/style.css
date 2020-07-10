@@ -1,0 +1,22 @@
+#box{
+    text-decoration: underline;
+    text-align: center;
+}
+.box2{
+    width: 1510px;
+    height: 200px;
+    border: red;
+    background-color: red;
+}
+li{
+    color: aqua;
+    text-decoration: underline;
+    font-size: 15pt;
+}
+#lorem{
+    color: aqua;
+    font-size: 15pt;
+}
+hr{
+   border-color: aqua;
+}
